@@ -9,48 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New Testament.md",
+            "file": "Samson.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "5bd830ed8b3802e7"
-      },
-      {
-        "id": "339f45e74660194e",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "New Testament.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "5bd830ed8b3802e7"
+        }
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Testament.md",
+                "file": "Samson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +89,15 @@
   },
   "active": "34bd2721e8644888",
   "lastOpenFiles": [
-    "New Testament.md",
-    "The Gospels.md",
-    "Bible.md",
-    "Old Testament.md",
-    "Book of Isaiah.md",
-    "Isaiah.md",
-    "Third Book of Nephi.md",
-    "Joseph (Nephite).md",
-    "Joseph Smith, Jr..md",
-    "Jesus Christ.md"
+    "Samson.md",
+    "Gath.md",
+    "Goliath.md",
+    "Moabites.md",
+    "Philistines.md",
+    "Moab.md",
+    "Syria.md",
+    "Assyria.md",
+    "Canaan (Land).md",
+    "Egypt.md"
   ]
 }

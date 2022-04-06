@@ -6,7 +6,7 @@ tags: person, prophet, historian
 
 Prophet in the [[Book of Mormon]].  Author of the [[First Book of Nephi]] and the [[Second Book of Nephi]].
 
-Nephi married one of the daughts of [[Ishmael]].  Founded the group of people called the [[Nephites]].
+Nephi married one of the daughts of [[Ishmael (Book of Mormon)]].  Founded the group of people called the [[Nephites]].
 
 ### Parents
 - [[Lehi]]
