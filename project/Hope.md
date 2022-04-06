@@ -1,0 +1,6 @@
+---
+tags: principle
+---
+
+# Hope
+

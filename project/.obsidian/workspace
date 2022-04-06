@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "604c645fb9abf364",
+    "type": "split",
+    "children": [
+      {
+        "id": "34bd2721e8644888",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Joseph (Nephite).md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "5bd830ed8b3802e7"
+      },
+      {
+        "id": "339f45e74660194e",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Joseph (Nephite).md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "5bd830ed8b3802e7"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "227b0573623831d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "457ed5c42ad269e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bbe708412d51ebf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5b62bfe37bf5389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4395a176096c6de5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9498f4f0a55c0f6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d83cc040cb22763",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Joseph (Nephite).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "339f45e74660194e",
+  "lastOpenFiles": [
+    "Joseph (Nephite).md",
+    "Joseph Smith, Jr..md",
+    "Jesus Christ.md",
+    "Mary.md",
+    "Heavenly Father.md",
+    "Joseph (Husband of Mary).md",
+    "Jacob (Father in Law to Mary).md",
+    "Matthan.md",
+    "Eleazar.md",
+    "Eliud.md"
+  ]
+}

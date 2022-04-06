@@ -1,0 +1,6 @@
+---
+tags: person
+---
+
+### Parents
+- [[Eliakim]]
