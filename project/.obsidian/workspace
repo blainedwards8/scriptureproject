@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Joseph (Nephite).md",
+            "file": "New Testament.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Joseph (Nephite).md",
+            "file": "New Testament.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joseph (Nephite).md",
+                "file": "New Testament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "339f45e74660194e",
+  "active": "34bd2721e8644888",
   "lastOpenFiles": [
+    "New Testament.md",
+    "The Gospels.md",
+    "Bible.md",
+    "Old Testament.md",
+    "Book of Isaiah.md",
+    "Isaiah.md",
+    "Third Book of Nephi.md",
     "Joseph (Nephite).md",
     "Joseph Smith, Jr..md",
-    "Jesus Christ.md",
-    "Mary.md",
-    "Heavenly Father.md",
-    "Joseph (Husband of Mary).md",
-    "Jacob (Father in Law to Mary).md",
-    "Matthan.md",
-    "Eleazar.md",
-    "Eliud.md"
+    "Jesus Christ.md"
   ]
 }

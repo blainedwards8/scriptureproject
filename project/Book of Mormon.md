@@ -10,7 +10,7 @@
 - [[Book of Mosiah]]
 - [[Book of Alma]]
 - [[Book of Helaman]]
-- [[Book of Third Nephi]]
+- [[Third Book of Nephi]]
 - [[Book of Fourth Nephi]]
 - [[Book of Mormon (Book)]]
 - [[Book of Ether]]
