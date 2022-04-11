@@ -1,4 +1,6 @@
-#person
+---
+tags: person
+---
 
 ### Parents
 - [[Lehi]]

@@ -2,6 +2,9 @@
 tags: person, prophet
 ---
 
+# Jacob (Israel)
+Let God prevail.
+
 ### Spouses
 - [[Leah]]
 - [[Rachel]]

@@ -1,4 +1,6 @@
-#person #prophet
+---
+tags: person, prophet
+---
 
 ### Spouse
 - [[Sariah]]

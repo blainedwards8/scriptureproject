@@ -2,6 +2,7 @@
 tags: person
 ---
 
+# Adam
 ### Spouse
 [[Eve]]
 

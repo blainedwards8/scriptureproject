@@ -4,16 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "34bd2721e8644888",
+        "id": "defd53e27b9ee101",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Samson.md",
+            "file": "Lamech (Son of Methusael).md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "4bb6850115125036"
+      },
+      {
+        "id": "c00b2066b36ed080",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Lamech (Son of Methusael).md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "4bb6850115125036"
       }
     ],
     "direction": "vertical"
@@ -40,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "abraham",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Samson.md",
+                "file": "Lamech (Son of Methusael).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34bd2721e8644888",
+  "active": "defd53e27b9ee101",
   "lastOpenFiles": [
-    "Samson.md",
-    "Gath.md",
-    "Goliath.md",
-    "Moabites.md",
-    "Philistines.md",
-    "Moab.md",
-    "Syria.md",
-    "Assyria.md",
-    "Canaan (Land).md",
-    "Egypt.md"
+    "Lamech (Son of Methusael).md",
+    "Methusael.md",
+    "Mehujael.md",
+    "Irad.md",
+    "Enoch (Son of Cain).md",
+    "Cain.md",
+    "Adam.md",
+    "Reu.md",
+    "Serug.md",
+    "Nahor (Son of Serug).md"
   ]
 }

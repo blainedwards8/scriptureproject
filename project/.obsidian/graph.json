@@ -8,10 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#king",
+      "query": "tag:#person",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "tag:#location",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#group",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 0.613095238095238,
   "linkDistance": 112,
-  "scale": 0.021528718442430424,
+  "scale": 0.021528718442430293,
   "close": true
 }
